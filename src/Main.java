@@ -4,5 +4,6 @@ class Main{
         System.out.println("Добавление 1");
         System.out.println("Добавление 2");
         System.out.println("Добавление 3");
+        System.out.println("Добавление 4");
     }
 }
